@@ -1,0 +1,26 @@
+{
+    "name": "richkay/yii2-behaviors",
+    "description": "Behaviors for Yii2",
+    "keywords": ["yii2", "behavior", "activerecord", "query scope"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/richkay/yii2-behaviors/issues",
+        "source": "https://github.com/richkay/yii2-behaviors"
+    },
+    "authors": [
+        {
+            "name": "Rich Kay",
+            "email": "richkay71@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "richkay\\behaviors\\gees\\": ""
+        }
+    },
+}
