@@ -1,5 +1,5 @@
 {
-    "name": "richkay/yii2-ge-behaviors",
+    "name": "richkay/yii2-gees-behaviors",
     "description": "Behaviors for Yii2",
     "keywords": ["yii2", "behavior", "activerecord", "query scope"],
     "type": "yii2-extension",
