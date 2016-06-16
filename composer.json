@@ -1,5 +1,5 @@
 {
-    "name": "richkay/yii2-gees-behaviors",
+    "name": "richkay/yii2-ge-behaviors",
     "description": "Behaviors for Yii2",
     "keywords": ["yii2", "behavior", "activerecord", "query scope"],
     "type": "yii2-extension",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "richkay\\behaviors\\gees\\": ""
+            "richkay\\behaviors\\ge\\": ""
         }
     }
 }
