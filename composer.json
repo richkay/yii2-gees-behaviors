@@ -1,12 +1,12 @@
 {
-    "name": "richkay/yii2-behaviors",
+    "name": "richkay/yii2-gees-behaviors",
     "description": "Behaviors for Yii2",
     "keywords": ["yii2", "behavior", "activerecord", "query scope"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/richkay/yii2-behaviors/issues",
-        "source": "https://github.com/richkay/yii2-behaviors"
+        "issues": "https://github.com/richkay/yii2-gees-behaviors/issues",
+        "source": "https://github.com/richkay/yii2-gees-behaviors"
     },
     "authors": [
         {
